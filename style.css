@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'sunday';
+    src: url('./fonts/sunday_grapes-webfont.woff2') format('woff2'),
+         url('./fonts/sunday_grapes-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.login {
+    font-family: sunday;
+}
+.nav-link {
+    font-family: sunday;
+    border-color: black;
+    margin: 5px;
+    border-radius: 40px;
+    color: white !important;
+    background-color: rgb(69, 15, 0) !important;
+}
+
+.btn {
+    height: 50px;
+    width: 100px;
+    border-color: black !important;
+    margin: 5px;
+    border-radius: 40px !important;
+    color: white !important;
+    background-color: rgb(69, 15, 0) !important;
+}
+
+.first-text {
+    font-family: sunday;
+    background-color: rgb(47, 10, 0);
+    padding-right: 100px !important;
+    padding-left: 100px !important;
+    padding: 160px !important;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#cup-leaf {
+    padding: 0;
+}
+
+.row {
+    color: #c5b4a7 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.main {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+h1 {
+    font-size: 55px !important;
+}
+
+p {
+    font-size: 20px !important;
+}
+
+.tekst-color {
+    color: rgb(47, 10, 0) !important;
+}
+
+.second-text {
+    font-family: sunday;
+    background-color: #c5b4a7;
+    padding-right: 100px !important;
+    padding-left: 100px !important;
+    padding: 160px !important;
+    text-align: center;
+}
